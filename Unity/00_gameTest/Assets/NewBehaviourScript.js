@@ -1,5 +1,9 @@
 ﻿#pragma strict
 
+function  Awake () {
+	
+}
+
 function Start () {
 
 }
